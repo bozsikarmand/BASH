@@ -1,0 +1,7 @@
+# a tesztfajl a http://lorem-ipsum.perbang.dk/ segitsegevel keszult
+# a catet sorszamkiiras parameterrel inditom, utana a fajlnev kovetkezik
+# ennek kimenetet csovezetekkel a headnek adom, kiiratom az elso 200 sort,
+# majd visszaveszek belole 100-at a tail paranccsal
+# es beleiranyitom a fajlba
+
+cat -n lipsum | head -n 200 | tail -n 101 > masolat.txt

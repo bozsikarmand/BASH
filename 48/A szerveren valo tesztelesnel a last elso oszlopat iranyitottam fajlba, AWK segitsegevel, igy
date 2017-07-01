@@ -1,0 +1,2 @@
+last | awk '{print $1}' | head -n -2 > szerver.txt
+cat szerver.txt > keresztnevekRendezetlen.txt 

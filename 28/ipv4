@@ -1,0 +1,11 @@
+^(?:[0-9]{1,3}\.){3}[0-9]{1,3}$
+
+# A string kezdetetol nem emlekezo csoportot kialakitva (?:) 
+# legalabb 1 de legfeljebb 3 karakteres 
+# (A-B-C cimosztalyok miatt) csak szamot tartalmazo blokkokat 
+# veszek, ponttal elvalasztva. Ezekbol 3 blokkot kepzek.
+# (Ezert van nem emlekezo csoportban a kezdo kifejezes)
+# Az utolso blokk 1-3 karakter hosszu, es csak szamot tartalmaz
+# es a vegehez illeszkedik.
+
+

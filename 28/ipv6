@@ -1,0 +1,6 @@
+^(?:[A-F0-9]{1,4}:){7}[A-F0-9]{1,4}$
+
+# A string kezdetetol legalabb 1 de legfeljebb 4 karakteres 
+# szamot es a-f kis-nagy betut tartalmazo blokkokat tartalmaz 
+# :-tal elvalasztva 7 blokk hosszan. Az utolso blokk az elozoekhez 
+# hasonlo, am a vegehez illeszkedik.

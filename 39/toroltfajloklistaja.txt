@@ -1,0 +1,16 @@
+Tesztfajlok/3-harmadik-broken
+Tesztfajlok/1-sym
+Tesztfajlok/2elso-sym
+Tesztfajlok/5-otodik-sym 
+Tesztfajlok/4-masodik-broken 
+Tesztfajlok/ujabb-sym
+Tesztfajlok/4-negyedik-broken 
+Tesztfajlok/1-broken
+Tesztfajlok/almappa/almappa-harmadik-broken
+Tesztfajlok/almappa/almappa-masodik-broken 
+Tesztfajlok/almappa/almappa-negyedik-broken 
+Tesztfajlok/almappa/almappa-sokadik-sym 
+Tesztfajlok/almappa/almappa-elso-broken
+Tesztfajlok/almappa/almappa-elso-sym
+Tesztfajlok/almappa/almappa-ujabb-sym
+Tesztfajlok/almappa/almappa-otodik-sym 
