@@ -1,1 +1,1 @@
-##BASH exercises as reference
+BASH exercises as reference
